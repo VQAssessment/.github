@@ -1,4 +1,4 @@
-# :camera: Video Quality Assessment Project
+# :camera: Visual Quality Assessment Project
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
@@ -26,6 +26,6 @@ Supervisor: [Prof Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)
 
 Co-Supervisor from Sensetime: [Dr. Wenxiu Sun](wenxiusun.com), [Dr. Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ&hl=en)
 
-PhD Student: [Haoning Wu](https://github.com/teowu)
+PhD Student: [Haoning Wu](https://github.com/teowu) [Jingwen Hou](https://github.com/jingwenh)
 
 Research Fellows (alphabetical order): [Dr. Chaofeng Chen](https://chaofengc.github.io), [Dr. Liang Liao](https://liaoliang92.github.io/homepage/)
