@@ -1,4 +1,5 @@
 # :camera: Visual Quality Assessment Project
+Maintained by: [Teo Wu](teowu.github.io) (Haoning Wu)
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
