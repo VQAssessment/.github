@@ -11,7 +11,7 @@ Code repositories to our works under the project:
 
 [FAST-VQA/FasterVQA](https://github.com/VideoQualityAssessment/FAST-VQA-and-FasterVQA) (ECCV, 2022) [Paper](https://arxiv.org/abs/2207.02595) [Extension](https://arxiv.org/abs/2210.05357) 
 
-[TPQI](https://github.com/uolmm/tpqi)\* (ACM MM Oral, 2022) [Paper](https://arxiv.org/abs/2207.03723)
+[TPQI](https://github.com/UOLMM/TPQI-VQA)\* (ACM MM Oral, 2022) [Paper](https://arxiv.org/abs/2207.03723)
 
 [DisCoVQA](https://github.com/VideoQualityAssessment/DisCoVQA)\* (Arxiv, 2022) [Paper](https://arxiv.org/abs/2206.09853)
 
