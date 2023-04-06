@@ -7,11 +7,13 @@ We are a young research team from [Nanyang Technological University (NTU)](ntu.e
 
 Code repositories to our works under the project:
 
-[DOVER](https://github.com/QualityAssessment/DOVER) (Arxiv, 2023) [Paper](https://arxiv.org/abs/2211.04894) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangling-aesthetic-and-technical-effects/video-quality-assessment-on-live-fb-lsvq)](https://paperswithcode.com/sota/video-quality-assessment-on-live-fb-lsvq?p=disentangling-aesthetic-and-technical-effects)
+Zero-shot [BVQI] (https://github.com/VQAssessment/BVQI) (ICME, 2023) [Paper](https://arxiv.org/abs/2302.13269) Extension (TBA)
 
-[FAST-VQA/FasterVQA](https://github.com/ualityAssessment/FAST-VQA-and-FasterVQA) (ECCV, 2022) [Paper](https://arxiv.org/abs/2207.02595) [Extension](https://arxiv.org/abs/2210.05357) 
+[DOVER](https://github.com/VQAssessment/DOVER) (Arxiv, 2023) [Paper](https://arxiv.org/abs/2211.04894) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangling-aesthetic-and-technical-effects/video-quality-assessment-on-live-fb-lsvq)](https://paperswithcode.com/sota/video-quality-assessment-on-live-fb-lsvq?p=disentangling-aesthetic-and-technical-effects)
 
-TPQI [Matlab](https://github.com/UOLMM/TPQI-VQA), [Pytorch](https://github.com/QualityAssessment/BVI-Pytorch) (ACM MM Oral, 2022) [Paper](https://arxiv.org/abs/2207.03723)
+[FAST-VQA/FasterVQA](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) (ECCV, 2022) [Paper](https://arxiv.org/abs/2207.02595) [Extension](https://arxiv.org/abs/2210.05357) 
+
+TPQI [Matlab](https://github.com/UOLMM/TPQI-VQA), [Pytorch](https://github.com/VQAssessment/BVQI) (ACM MM Oral, 2022) [Paper](https://arxiv.org/abs/2207.03723)
 
 [DisCoVQA](https://github.com/VideoQualityAssessment/DisCoVQA) (Arxiv, 2022) [Paper](https://arxiv.org/abs/2206.09853)
 
