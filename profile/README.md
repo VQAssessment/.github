@@ -7,9 +7,9 @@ We are a young research team from [Nanyang Technological University (NTU)](ntu.e
 
 Code repositories to our works under the project:
 
-[MaxVQA and MaxWell database](https://github.com/VQAssessment/MaxVQA) (MM, 2023) [Paper](https://arxiv.org/abs/2305.12726) 
+[MaxVQA and MaxWell database](https://github.com/VQAssessment/MaxVQA) (ACM MM, 2023) [Paper](https://arxiv.org/abs/2305.12726) 
 
-*Zero-shot* [BVQI](https://github.com/VQAssessment/BVQI) (ICME, 2023) [Paper](https://arxiv.org/abs/2302.13269) [Extension](https://arxiv.org/abs/2304.14672)
+*Zero-shot* [BVQI](https://github.com/VQAssessment/BVQI) (ICME Oral, 2023) [Paper](https://arxiv.org/abs/2302.13269) [Extension](https://arxiv.org/abs/2304.14672)
 
 [DOVER](https://github.com/VQAssessment/DOVER) (ICCV, 2023) [Paper](https://arxiv.org/abs/2211.04894) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangling-aesthetic-and-technical-effects/video-quality-assessment-on-live-fb-lsvq)](https://paperswithcode.com/sota/video-quality-assessment-on-live-fb-lsvq?p=disentangling-aesthetic-and-technical-effects)
 
