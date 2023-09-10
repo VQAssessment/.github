@@ -13,7 +13,7 @@ Code repositories to our works under the project:
 
 [DOVER](https://github.com/VQAssessment/DOVER) (ICCV, 2023) [Paper](https://arxiv.org/abs/2211.04894) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangling-aesthetic-and-technical-effects/video-quality-assessment-on-live-fb-lsvq)](https://paperswithcode.com/sota/video-quality-assessment-on-live-fb-lsvq?p=disentangling-aesthetic-and-technical-effects)
 
-[FAST-VQA/FasterVQA](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) (ECCV, 2022) [Paper](https://arxiv.org/abs/2207.02595) [Extension](https://arxiv.org/abs/2210.05357) 
+[FAST-VQA/FasterVQA](https://github.com/VQAssessment/FAST-VQA-and-FasterVQA) (ECCV, 2022; TPAMI, 2023) [Paper](https://arxiv.org/abs/2207.02595) [Extension](https://arxiv.org/abs/2210.05357) 
 
 TPQI [Matlab](https://github.com/UOLMM/TPQI-VQA), [Pytorch](https://github.com/VQAssessment/BVQI) (ACM MM Oral, 2022) [Paper](https://arxiv.org/abs/2207.03723)
 
