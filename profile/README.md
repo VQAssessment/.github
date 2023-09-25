@@ -1,9 +1,11 @@
 # :camera: Visual Quality Assessment Project
 Maintained by: [Teo Wu](https://teowu.github.io) (Haoning Wu)
 
-🌟New: We will publish a benchmark for multi-modality large language models (MLLMs) on low-level vision and visual quality assessment! Stay-tuned!
+🌟New: We have published a benchmark for **multi-modality large language models (MLLMs)** on low-level vision and visual quality assessment!
 
-![img](https://github.com/VQAssessment/.github/blob/main/profile/qbench.png) 
+See our [codebase](https://github.com/VQAssessment/Q-Bench) and [paper](https://https://www.researchgate.net/publication/374156853_Q-BENCH_A_BENCHMARK_FOR_GENERAL-PURPOSE_FOUNDATION_MODELS_ON_LOW-LEVEL_VISION)
+
+
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
