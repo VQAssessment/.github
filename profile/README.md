@@ -3,7 +3,7 @@ Maintained by: [Teo Wu](https://teowu.github.io) (Haoning Wu)
 
 🌟New: We will publish a [benchmark] for multi-modality large language models (MLLMs) on low-level vision and visual quality assessment!
 
-![img](https://github.com/VQAssessment/.github/blob/master/profile/qbench.png) 
+![img](https://github.com/VQAssessment/.github/blob/main/profile/qbench.png) 
 
 We are a young research team from [Nanyang Technological University (NTU)](ntu.edu.sg) and [Sensetime Research](sensetime.com), aiming to build efficient and explainable Image and Video Quality Assessment approaches as well as exploring the perceptual mechanisms behind the human quality perception.
 
