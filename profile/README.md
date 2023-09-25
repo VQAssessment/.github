@@ -1,7 +1,7 @@
 # :camera: Visual Quality Assessment Project
 Maintained by: [Teo Wu](https://teowu.github.io) (Haoning Wu)
 
-🌟New: We will publish a [benchmark] for multi-modality large language models (MLLMs) on low-level vision and visual quality assessment! Stay-tune!
+🌟New: We will publish a benchmark for multi-modality large language models (MLLMs) on low-level vision and visual quality assessment! Stay-tuned!
 
 ![img](https://github.com/VQAssessment/.github/blob/main/profile/qbench.png) 
 
